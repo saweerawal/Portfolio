@@ -143,3 +143,9 @@ span {
     max-width: 1000px;
     margin: auto;
 }
+
+.btn{
+  max-width: 140px;
+  margin: 1rem auto;
+  display: inline-block;
+}
