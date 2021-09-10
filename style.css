@@ -27,7 +27,7 @@ body {
 
 .lists li {
     display: inline-block;
-    padding: 0rem 2rem;
+    padding: 0rem 1rem;
 }
 
 .non-bullet-list {
