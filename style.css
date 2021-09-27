@@ -12,6 +12,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
     padding: 0px;
+    height: 100%;
 
 }
 
@@ -65,10 +66,11 @@ body {
 
 #footer {
     text-align: center;
-    height: 120px;
+    height: 10%;
     background-color: var(--primary--);
     color: var(--gray--);
     border-radius: 0rem 1.5rem 0rem 0rem;
+    
 }
 
 #footer ul {
