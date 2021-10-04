@@ -56,6 +56,10 @@ body {
     line-height: 1.8rem;
 }
 
+.container .peace-list{
+    line-height: 1.8rem;
+}
+
 #image-programmer {
     max-width: 80%;
     width: 550px;
